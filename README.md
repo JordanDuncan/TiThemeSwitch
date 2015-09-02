@@ -5,10 +5,15 @@ Easily switch TiCh/Alloy themes.
 npm install -g tithemeswitch
 ```
 ## Usage
-Run from withing the root of an Alloy project
+Run from withing the root of an Alloy project.
 
+####Switch to theme
 ```
-tithemeswitch <themename>
+tithemeswitch (<themename> or <themeindex>)
+```
+####See installed themes with indexes
+```
+tithemeswitch -list
 ```
 ## Credits
 [@JrdnDncn](http://twitter.com/jrdndncn)
