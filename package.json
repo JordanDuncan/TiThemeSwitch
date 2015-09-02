@@ -1,0 +1,17 @@
+{
+  "name": "TiThemeSwitch",
+  "version": "1.0.0",
+  "description": "Easily switch Alloy themes with TiCh",
+  "keywords": [
+    "titanium",
+    "alloy",
+    "theme",
+    "tich"
+  ],
+  "preferGlobal": "true",
+  "bin": {
+    "tithemeswitch": "index.js"
+  },
+  "author": "Jordan Duncan",
+  "license": "MIT"
+}
