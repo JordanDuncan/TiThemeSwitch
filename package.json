@@ -1,6 +1,6 @@
 {
-  "name": "TiThemeSwitch",
-  "version": "1.0.0",
+  "name": "tithemeswitch",
+  "version": "1.0.1",
   "description": "Easily switch Alloy themes with TiCh",
   "keywords": [
     "titanium",
@@ -11,6 +11,11 @@
   "preferGlobal": "true",
   "bin": {
     "tithemeswitch": "index.js"
+  },
+  "dependencies":{
+    "tich": ">=1.0.4",
+    "alloy": ">=1.4.1",
+    "titanium": ">=3"
   },
   "repository": {
     "type": "git",
